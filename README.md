@@ -3,6 +3,11 @@
 - 꾸준히 작성할 것 (1일 1커밋 목표)
 
 ## 분류
+
+### 컴퓨터구조론
+- [CPU란 무엇인가?](https://reyoo-dev.tistory.com/15)
+
+
 ### 프로그래머스 코딩테스트
 #### JAVA
 - [직사각형 별찍기](https://reyoo-dev.tistory.com/13)
