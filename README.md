@@ -6,6 +6,7 @@
 
 ### 컴퓨터구조론
 - [CPU란 무엇인가?](https://reyoo-dev.tistory.com/15)
+- [CPU 기본 주파수와 최대 터보 주파수](https://reyoo-dev.tistory.com/16)
 
 
 ### 프로그래머스 코딩테스트
