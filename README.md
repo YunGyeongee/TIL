@@ -13,3 +13,7 @@
 #### JAVA
 - [직사각형 별찍기](https://reyoo-dev.tistory.com/13)
 - [x만큼 간격이 있는 n개의 숫자](https://reyoo-dev.tistory.com/14)
+
+#### Laravel
+- [라라벨 프로젝트 세팅](https://reyoo-dev.tistory.com/17)
+- [블레이드에 여러 변수를 담고 싶은 경우](https://reyoo-dev.tistory.com/18)
