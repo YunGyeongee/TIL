@@ -4,6 +4,9 @@
 
 ## 분류
 
+### 네트워크
+- [네트워크 기초 지식 익히기](https://reyoo-dev.tistory.com/24)
+
 ### Git
 - [Resolve conflicts 버튼 비활성화일 경우](https://reyoo-dev.tistory.com/19)
 
