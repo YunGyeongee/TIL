@@ -1,7 +1,7 @@
 # remote: Invalid username or password.
 
 - git 로그인이 풀린 문제
-- 기존에 생성된 토큰이 있다면 그대로 사용하면 되지만, 없다면 발급해줘야함 [링크]()
+- 기존에 생성된 토큰이 있다면 그대로 사용하면 되지만, 없다면 발급해줘야함 [링크](https://github.com/YunGyeongee/TIL/blob/master/git/createGithubToken.md)
 
 1. 설정 초기화
 ```
